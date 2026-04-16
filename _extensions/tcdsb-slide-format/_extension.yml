@@ -1,6 +1,6 @@
-title: TCDSB Formats
+title: tcdsb-slide-format
 version: 1.0.0
-quarto-required: ">=1.9.0"
+quarto-required: ">=1.8.0"
 
 contributes:
   formats:
